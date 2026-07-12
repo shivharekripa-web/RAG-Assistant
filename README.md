@@ -152,7 +152,7 @@ engineering-intelligence-hub/
 1. **Clone and enter the project**
 
    ```bash
-   cd engineering-intelligence-hub
+   cd rag-engineering-hub
    ```
 
 2. **Install dependencies** (a virtual environment is recommended)
