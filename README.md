@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔎 Engineering Intelligence Hub
+# 🔎 RAG Assistant
 
 **Ask plain-English questions about your codebase and docs — get answers grounded in, and cited back to, the actual source.**
 
